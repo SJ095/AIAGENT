@@ -1,0 +1,4 @@
+fastapi==0.95.1
+uvicorn==0.23.0
+google-play-scraper==1.2.7
+httpx==0.24.0
